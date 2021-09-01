@@ -1,6 +1,7 @@
 # Computer-Organization
 
-Here are some assignments about Computer Organization, including verilog and MIPS instruction set.  
+Here are some assignments about Computer Organization, including verilog and MIPS instruction set. 
+
 Each folder has a description and a report related to the assignment.
 
 ## HW1 Introduction : 
