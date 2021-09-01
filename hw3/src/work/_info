@@ -1,0 +1,96 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/19.1/modelsim_ase/win32aloem
+vCPU
+Z0 !s110 1590407746
+!i10b 1
+!s100 YVhk3G56iCHd]Fbn=`O?C3
+I6XigzXPo5oMV>d_DNO8]:1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/acer/Desktop/hw3/hw3_single_cycle_riscv_cpu/F740XXXXX/src
+w1590407730
+8CPU.v
+FCPU.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1590407746.000000
+Z5 !s107 SRAM.v|CPU.v|C:/Users/acer/Desktop/hw3/hw3_single_cycle_riscv_cpu/F740XXXXX/src/top.v|
+Z6 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/acer/Desktop/hw3/hw3_single_cycle_riscv_cpu/F740XXXXX/src/top.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@c@p@u
+vSRAM
+R0
+!i10b 1
+!s100 PT2L4iDG99U@9Koob?3U70
+IUY4^h89X4h?GBGAUC?T9^0
+R1
+R2
+w1588481279
+8SRAM.v
+FSRAM.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+n@s@r@a@m
+vtop
+R0
+!i10b 1
+!s100 3nA]>>K_ENC>4H3_H3T@Y0
+IY_32XE9=J[3RTi4YZ4C>a3
+R1
+R2
+w1579326370
+8C:/Users/acer/Desktop/hw3/hw3_single_cycle_riscv_cpu/F740XXXXX/src/top.v
+FC:/Users/acer/Desktop/hw3/hw3_single_cycle_riscv_cpu/F740XXXXX/src/top.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vtop_tb
+R0
+!i10b 1
+!s100 XYo?]9TS1<i4j4S4lR;>H1
+IYUOoW=KK>UJPmfiBDzUSi2
+R1
+R2
+w1583724891
+8C:/Users/acer/Desktop/hw3/hw3_single_cycle_riscv_cpu/F740XXXXX/src/top_tb.v
+FC:/Users/acer/Desktop/hw3/hw3_single_cycle_riscv_cpu/F740XXXXX/src/top_tb.v
+L0 14
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/acer/Desktop/hw3/hw3_single_cycle_riscv_cpu/F740XXXXX/src/top_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/acer/Desktop/hw3/hw3_single_cycle_riscv_cpu/F740XXXXX/src/top_tb.v|
+!i113 1
+R7
+R8
