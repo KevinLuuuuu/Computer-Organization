@@ -12,16 +12,16 @@ Use verilog to simulate traffic light.
 
 Use MIPS instruction set to implement Fibonacci number.  
 
-## HW3 Introduction (IRISC CPU): 
+## HW3 Introduction (Implement RISC CPU): 
 
 The goal of this homework is to understand how a RISC-V work and how to use Verilog hardware description language (Verilog HDL) to model electronic systems.   
 That is, implement ALU and decoder module and make our codes be able to execute all RISC-V instructions.  
 
 ## HW4 Introduction : 
 
-Write a cache simulator, and compare the implementation of the cache and their miss rate between different conditions.  
-Conditions are determined by input.   
+Write a cache simulator, and compare the implementation of the cache and their miss rate between different conditions.   
+Conditions are determined by input.     
   
-Conditions : 
-Associativity : Direct-mapped, four-way set associative, fully associative.
-Replace algorithm : FIFO, LRU,  MRU(Most Recently Used).
+Conditions :   
+Associativity : Direct-mapped, four-way set associative, fully associative.  
+Replace algorithm : FIFO, LRU,  MRU(Most Recently Used).   
