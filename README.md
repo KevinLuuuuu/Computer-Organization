@@ -12,7 +12,7 @@ Use verilog to simulate traffic light.
 
 Use MIPS instruction set to implement Fibonacci number.  
 
-## HW3 Introduction (Implement RISC CPU): 
+## HW3 Introduction (Implement a RISC CPU): 
 
 The goal of this homework is to understand how a RISC-V work and how to use Verilog hardware description language (Verilog HDL) to model electronic systems.   
 That is, implement ALU and decoder module and make our codes be able to execute all RISC-V instructions.  
